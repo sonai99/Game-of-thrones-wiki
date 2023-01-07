@@ -9,7 +9,7 @@ const Characters = ({users}) => {
     <><>
           <section className='search'>
               <form action="">
-                  <input onChange={(e) => setSearch(e.target.value)} type="text" placeholder="Search a Breaking Bad character" />
+                  <input onChange={(e) => setSearch(e.target.value)} type="text" placeholder="Search a Game Of Thrones character" />
               </form>
           </section>
       </><div className='cards'>
