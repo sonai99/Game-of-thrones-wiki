@@ -1,4 +1,6 @@
 [Live Demo Here](https://anirban-got-wiki.netlify.app/)
+Api Used - https://thronesapi.com/api/v2/Characters
+
 
 # Getting Started with Create React App
 
